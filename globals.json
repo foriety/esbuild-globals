@@ -1,0 +1,10 @@
+{
+    "@foriety/ts-ext": "foriety_ext",
+    "codemirror": "CodeMirror",
+    "moment": "moment",
+    "signature_pad": "SignaturePad",
+    "simplebar": "SimpleBar",
+    "tinymce": "tinymce",
+    "vue": "Vue",
+    "vuetify": "Vuetify"
+}
