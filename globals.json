@@ -1,6 +1,8 @@
 {
     "@foriety/ts-ext": "foriety_ext",
+    "@vueuse/core": "VueUse",
     "codemirror": "CodeMirror",
+    "d3": "d3",
     "moment": "moment",
     "signature_pad": "SignaturePad",
     "simplebar": "SimpleBar",
