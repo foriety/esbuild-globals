@@ -3,9 +3,11 @@
     "@vueuse/core": "VueUse",
     "codemirror": "CodeMirror",
     "d3": "d3",
+    "marked": "marked",
     "moment": "moment",
     "signature_pad": "SignaturePad",
     "simplebar": "SimpleBar",
+    "socket.io-client": "io",
     "tinymce": "tinymce",
     "vue": "Vue",
     "vuetify": "Vuetify"
